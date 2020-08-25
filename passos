@@ -28,3 +28,6 @@ caso o Eslint não aceite a alteração
 
 Trabalhar com cores
 >> yarn add polished
+
+Lidando com formularios performaticos
+>> yarn add @rocketseat/unform 
