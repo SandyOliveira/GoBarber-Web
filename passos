@@ -1,0 +1,30 @@
+Lidando com rotas
+>> yarn add react-router-dom
+
+History
+
+>> yarn add history
+
+Reactotron
+
+>> yarn add reactotron-react-js
+
+PropTypes
+>> yarn add prop-types
+
+Styled-Component
+>> yarn add styled-components
+
+LIdando cm alterações no react App
+
+>> yarn add customize-cra react-app-rewired -D
+
+Plugin do Babel
+>> yarn add babel-plugin-root-import -D
+isso facilita no caminho das pastas, p referenciar o src usa-se o (~)
+
+caso o Eslint não aceite a alteração
+>> yarn add eslint-import-resolver-babel-plugin-root-import -D
+
+Trabalhar com cores
+>> yarn add polished
