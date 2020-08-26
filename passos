@@ -31,3 +31,6 @@ Trabalhar com cores
 
 Lidando com formularios performaticos
 >> yarn add @rocketseat/unform 
+
+Biblioteca para fazer validação tanto no front-end quanto no back
+>> yarn add yup 
