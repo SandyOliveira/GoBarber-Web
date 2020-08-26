@@ -34,3 +34,7 @@ Lidando com formularios performaticos
 
 Biblioteca para fazer validação tanto no front-end quanto no back
 >> yarn add yup 
+
+Lidando com store (manter quem ta locado- autenticação)
+
+>> yarn add redux redux-saga react-redux reactotron-redux reacttotron-redux-saga immer
