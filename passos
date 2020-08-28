@@ -38,3 +38,9 @@ Biblioteca para fazer validação tanto no front-end quanto no back
 Lidando com store (manter quem ta locado- autenticação)
 
 >> yarn add redux redux-saga react-redux reactotron-redux reacttotron-redux-saga immer
+
+
+Utilizar um avatar sem antes pegar da api
+
+site de api que cria:
+>> avatars.adorable.js
