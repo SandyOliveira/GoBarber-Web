@@ -44,3 +44,7 @@ Utilizar um avatar sem antes pegar da api
 
 site de api que cria:
 >> avatars.adorable.js
+
+fixar um tamanho e criar um scroll
+
+>> yarn add react-perfect-scrollbar
