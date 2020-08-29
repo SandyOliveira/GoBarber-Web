@@ -42,9 +42,13 @@ Lidando com store (manter quem ta locado- autenticação)
 
 Utilizar um avatar sem antes pegar da api
 
-site de api que cria:
+site de api que cria um avatar temporario:
 >> avatars.adorable.js
 
 fixar um tamanho e criar um scroll
 
 >> yarn add react-perfect-scrollbar
+
+para fazer uma relacao de horario- tipo mostrar a quantos minutos caiu a msgm
+
+>> yarn add date-fns@next
